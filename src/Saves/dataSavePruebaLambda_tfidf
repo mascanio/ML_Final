@@ -1,0 +1,512 @@
+# Created by Octave 3.6.2, Sat Jan 17 15:01:48 2015 CET <miguel@ArmorDebian>
+# name: dataSave
+# type: struct
+# ndims: 2
+ 1 11
+# length: 7
+# name: lambda
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+0.001
+
+
+
+# name: <cell-element>
+# type: scalar
+0.003
+
+
+
+# name: <cell-element>
+# type: scalar
+0.01
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03
+
+
+
+# name: <cell-element>
+# type: scalar
+0.1
+
+
+
+# name: <cell-element>
+# type: scalar
+0.3
+
+
+
+# name: <cell-element>
+# type: scalar
+1
+
+
+
+# name: <cell-element>
+# type: scalar
+3
+
+
+
+# name: <cell-element>
+# type: scalar
+10
+
+
+
+# name: <cell-element>
+# type: scalar
+30
+
+
+
+# name: <cell-element>
+# type: scalar
+100
+
+
+
+
+
+# name: costeEntren
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+0.03269134163443087
+
+
+
+# name: <cell-element>
+# type: scalar
+0.0351155801548231
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03352975947089537
+
+
+
+# name: <cell-element>
+# type: scalar
+0.04547310865956461
+
+
+
+# name: <cell-element>
+# type: scalar
+0.05847748085397585
+
+
+
+# name: <cell-element>
+# type: scalar
+0.07623211969524635
+
+
+
+# name: <cell-element>
+# type: scalar
+0.1195949076503869
+
+
+
+# name: <cell-element>
+# type: scalar
+0.2284891946265269
+
+
+
+# name: <cell-element>
+# type: scalar
+0.5007212523239017
+
+
+
+# name: <cell-element>
+# type: scalar
+0.9728976193321155
+
+
+
+# name: <cell-element>
+# type: scalar
+1.756957539558613
+
+
+
+
+
+# name: costeVal
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+1.388666278146002
+
+
+
+# name: <cell-element>
+# type: scalar
+1.57189954224253
+
+
+
+# name: <cell-element>
+# type: scalar
+1.538677801400672
+
+
+
+# name: <cell-element>
+# type: scalar
+1.509530259627132
+
+
+
+# name: <cell-element>
+# type: scalar
+1.392708847376899
+
+
+
+# name: <cell-element>
+# type: scalar
+1.307777818611795
+
+
+
+# name: <cell-element>
+# type: scalar
+1.313767055274066
+
+
+
+# name: <cell-element>
+# type: scalar
+1.365334368777125
+
+
+
+# name: <cell-element>
+# type: scalar
+1.610297301740024
+
+
+
+# name: <cell-element>
+# type: scalar
+2.096086589355875
+
+
+
+# name: <cell-element>
+# type: scalar
+2.749742213230501
+
+
+
+
+
+# name: errTrain
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+0.03237078119856159
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03374470044892022
+
+
+
+# name: <cell-element>
+# type: scalar
+0.02967907038797644
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03630927772289156
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03321794789227504
+
+
+
+# name: <cell-element>
+# type: scalar
+0.03417293954962296
+
+
+
+# name: <cell-element>
+# type: scalar
+0.04386517883641969
+
+
+
+# name: <cell-element>
+# type: scalar
+0.07560607485682698
+
+
+
+# name: <cell-element>
+# type: scalar
+0.1757577605617234
+
+
+
+# name: <cell-element>
+# type: scalar
+0.4225879970714363
+
+
+
+# name: <cell-element>
+# type: scalar
+1.043902442315431
+
+
+
+
+
+# name: errVal
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+1.38809743394874
+
+
+
+# name: <cell-element>
+# type: scalar
+1.569466874705959
+
+
+
+# name: <cell-element>
+# type: scalar
+1.531844637057288
+
+
+
+# name: <cell-element>
+# type: scalar
+1.493268764228025
+
+
+
+# name: <cell-element>
+# type: scalar
+1.347885041494967
+
+
+
+# name: <cell-element>
+# type: scalar
+1.233142530253173
+
+
+
+# name: <cell-element>
+# type: scalar
+1.179382359048863
+
+
+
+# name: <cell-element>
+# type: scalar
+1.094038644759912
+
+
+
+# name: <cell-element>
+# type: scalar
+1.033639748508601
+
+
+
+# name: <cell-element>
+# type: scalar
+1.11954550601229
+
+
+
+# name: <cell-element>
+# type: scalar
+1.484404357997296
+
+
+
+
+
+# name: porcentajeEntren
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.05882352941177
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.29411764705883
+
+
+
+# name: <cell-element>
+# type: scalar
+99.1764705882353
+
+
+
+# name: <cell-element>
+# type: scalar
+98.70588235294117
+
+
+
+# name: <cell-element>
+# type: scalar
+97.41176470588235
+
+
+
+
+
+# name: porcentajeTest
+# type: cell
+# rows: 1
+# columns: 11
+# name: <cell-element>
+# type: scalar
+82.6722338204593
+
+
+
+# name: <cell-element>
+# type: scalar
+82.6722338204593
+
+
+
+# name: <cell-element>
+# type: scalar
+83.08977035490605
+
+
+
+# name: <cell-element>
+# type: scalar
+82.25469728601253
+
+
+
+# name: <cell-element>
+# type: scalar
+82.04592901878914
+
+
+
+# name: <cell-element>
+# type: scalar
+81.41962421711901
+
+
+
+# name: <cell-element>
+# type: scalar
+80.79331941544885
+
+
+
+# name: <cell-element>
+# type: scalar
+80.1670146137787
+
+
+
+# name: <cell-element>
+# type: scalar
+81.00208768267223
+
+
+
+# name: <cell-element>
+# type: scalar
+81.00208768267223
+
+
+
+# name: <cell-element>
+# type: scalar
+81.83716075156576
+
+
+
+
+
+
+

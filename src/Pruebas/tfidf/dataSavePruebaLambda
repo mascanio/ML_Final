@@ -1,0 +1,43 @@
+# Created by Octave 3.6.2, Sat Jan 17 23:54:21 2015 CET <miguel@ArmorDebian>
+# name: dataSave
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: lambda
+# type: scalar
+150
+
+
+# name: costeEntren
+# type: scalar
+2.079640294200709
+
+
+# name: costeVal
+# type: scalar
+2.895338950605085
+
+
+# name: errTrain
+# type: scalar
+1.41600019360073
+
+
+# name: errVal
+# type: scalar
+1.717689502776312
+
+
+# name: porcentajeEntren
+# type: scalar
+96.94117647058823
+
+
+# name: porcentajeTest
+# type: scalar
+81.41962421711901
+
+
+
+

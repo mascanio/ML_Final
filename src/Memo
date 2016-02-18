@@ -1,0 +1,46 @@
+Pruebas sobre num ejemplso de entrenamiento
+fixed_test_m = 329;
+lambda = 0;
+iters = 75;
+
+<< archivos pruebaNumEntrenamiento.m // graficas caCo_la0_it75.png caPo_la0_it75.png>>
+
+Se observa en la gráfica que el algoritmo sufre de una elevada varianza 
+(se sobreajusta a los ejemplos de entrenamiento)
+
+######################################################################################
+
+Fijamos m = 850 (en la gráfica parece un buen número) y probamos coambiando lambda
+
+<< pruebaLambda // grafica CurvaLambda >>
+
+Se concluye que lambda=10 es el numero apropiado.
+
+######################################################################################
+
+Ahora probaremos a cambiar el número de iteraciones para buscar un valor apropiado
+
+<< pruebaIters // grafica CurvaIters >>
+
+Se observa que para los parámetros actuales, el numero de iteraciones óptimo es 65
+
+######################################################################################
+
+Combinando
+El valor óptimo se encuentra para:
+	num_ocultas = 15
+	iteraciones = 160
+	lambda = 0.1000
+Con errores
+	errTrain = 0.3185
+	errVal = 1.2267
+
+con 50 ocultas, 74% de aciertos
+
+Sobreajustado - eliminar features
+
+Quitando las palabras que tienen menos de 10 apariciones, 76% de aciertos (mejora de 2%)
+
+Sustituyendo por los valores de tfidf de cada palabra, 83%
+
+
